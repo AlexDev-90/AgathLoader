@@ -1,2 +1,2 @@
 # AgathLoader
-AgathLoader is a side loader and overall device tool for your device. Currently 67% done.
+project has been cancelled due to lost in interest, sorry.
